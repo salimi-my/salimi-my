@@ -1,4 +1,4 @@
-#### Welcome!
+#### Hello world!
 
 - 😎 Hi, I’m Salimi
 - 🔥 I’m very passionate about everything related to web development
