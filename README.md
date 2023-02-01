@@ -1,8 +1,10 @@
 #### Hello world!
 
-- 😎 Hi, I’m Salimi
-- 🔥 I’m web dev wizard with a sprinkle of CodeIgniter, a dash of Next.js, a pinch of Bootstrap, and a heaping helping of Tailwind CSS. Let's make the internet an interesting place!
-- 📨 You can reach me through `contact@salimi.my`
+- 😎 Hi, I’m Salimi<br />
+- 🔥 I’m web dev wizard with a sprinkle of CodeIgniter, a dash of Next.js,<br />
+&emsp;&nbsp;&nbsp;a pinch of Bootstrap, and a heaping helping of Tailwind CSS.<br />
+&emsp;&nbsp;&nbsp;Let's make the internet an interesting place!<br />
+- 📫 You can reach me through `contact@salimi.my`
 
 #### Socials
 
