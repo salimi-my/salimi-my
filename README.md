@@ -1,8 +1,8 @@
 #### Hello world!
 
 - 😎 Hi, I’m Salimi<br />
-- 💻 I am web dev by day, coding ninja by night<br />
- 🚀 Pushing pixels and lines of code to new heights
+- 💻 I am a web dev by day, coding ninja by night<br />
+ 🚀 Pushes pixels & lines of code to new heights
 - 📫 You can reach me through `contact@salimi.my`
 
 #### Socials
