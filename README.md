@@ -1,7 +1,8 @@
 #### Hello world!
 
 - 😎 Hi, I’m Salimi<br />
-- 🔥 Web dev, making websites that are equal parts fun and functional 🎉💻 No task too big, no bug too small 🐛
+- 🔥 Web dev, making websites that are equal parts fun and functional 🎉💻<br />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No task too big, no bug too small 🐛
 - 📫 You can reach me through `contact@salimi.my`
 
 #### Socials
