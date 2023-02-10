@@ -1,9 +1,7 @@
 #### Hello world!
 
 - 😎 Hi, I’m Salimi<br />
-- 🔥 I’m web dev wizard with a sprinkle of CodeIgniter, a dash of Next.js,<br />
-&emsp;&nbsp;&nbsp;a pinch of Bootstrap, and a heaping helping of Tailwind CSS.<br />
-&emsp;&nbsp;&nbsp;Let's make the internet an interesting place!<br />
+- 🔥 Web dev, making websites that are equal parts fun and functional 🎉💻 No task too big, no bug too small 🐛
 - 📫 You can reach me through `contact@salimi.my`
 
 #### Socials
