@@ -13,4 +13,4 @@
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamad-salimi/)
 
 #### Contributions
-[![GitHub Streak](https://github-readme-streak-stats-gray-delta.vercel.app?user=salimi-my&theme=transparent&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-ngg4yv0z5-salimimys-projects.vercel.app?user=salimi-my&theme=transparent&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
